@@ -1,1 +1,1 @@
-"# cli-calcultaor" 
+"# cli-calculator" 
